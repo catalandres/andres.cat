@@ -26,8 +26,7 @@ And tell me:
 
 According to identified type and language, consult:
 
-- `post-templates.md` for structure
-- `voice-and-tone.md` for style
+- `content-creation-guide.md` for structure, style, and voice
 - `audience-context.md` for focus
 
 **Core style rules**:
@@ -118,8 +117,8 @@ According to identified type and language, consult:
 ### In all
 
 - Clear transitions between sections
-- Appropriate length by type (see `audience-context.md`)
-- Consistent tone with `voice-and-tone.md`
+- Appropriate length by type (see `content-creation-guide.md`)
+- Consistent tone and structure
 - Specific call to action
 
 ## Clarification questions
