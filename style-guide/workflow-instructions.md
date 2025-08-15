@@ -27,22 +27,26 @@ And tell me:
 According to identified type and language, consult:
 
 - `content-creation-guide.md` for structure, style, and voice
-- `audience-context.md` for focus
+- `audience-and-context.md` for focus
 
 **Core style rules**:
+
 - `style.md` for formatting, punctuation, and cross-language rules
 
 **Language-specific guidance**:
+
 - English: `lexicon-en.md`
 - Spanish: `lexicon-es.md`  
 - Catalan: `lexicon-ca.md`
 
 **Terminology consistency**:
+
 - `terminology-technical.md` for general tech terms
 - `terminology-salesforce.md` for platform-specific terms
 - `translation.md` for cross-language equivalencies
 
 **Multilingual considerations**:
+
 - `multilingual-guidelines.md` for translation strategy
 
 ### Step 3: Progressive development
