@@ -42,6 +42,7 @@ Each language has specific authority sources listed following this general hiera
 - Always use sentence case for titles, headings, and subheadings in all languages.
 - Maintain proper noun capitalization within sentence case titles.
 - **Never use title case**, even for major headings or formal documents.
+- **Always capitalize** the first word after a colon in headings: "Step 1: Identify the problem"
 
 ### On UI elements
 
@@ -113,7 +114,7 @@ Each language has specific authority sources listed following this general hiera
   - [ISO 31-0](https://www.iso.org/standard/26120.html) and its successors recommend using either points or commas.
   - RAE [splits that recommendation between countries](https://www.rae.es/ortografía/los-números-decimales-y-el-separador-decimal). Spain uses commas, whereas Mesoamerica and the US use points.
   - We use points to maintain a single criterion.
-- Use only spaces for thousands separators: "1 000", "10 000 000"
+- Use only spaces for thousands separators: "1 000", "10 000 000"
   - Thousands separators are optional, and they can only be used when the number expresses a value or a quantity (e.g. the population of a city).
   - They must not be used when the number designates an element within a sequence (e.g. years, pages, postal codes, identifiers).
   - This guidance follows RAE's [_Ortografía de la lengua española_](https://www.rae.es/ortografía/los-números-enteros-y-el-separador-de-millares) position on thousands separators.
@@ -122,7 +123,7 @@ Each language has specific authority sources listed following this general hiera
 
 ### Units
 
-- Separate numbers and units with a space, which should be non-breaking: "100 ms", "2 GB"
+- Separate numbers and units with a space, which should be non-breaking: "100 ms", "2 GB"
 - Use consistent units within the same context and specify them clearly.
 - Use standard abbreviations for units.
 - Use only the International System of Units at all times.
