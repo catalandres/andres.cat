@@ -1,4 +1,4 @@
-# Voice, tone, and post templates
+# Content creation guide
 
 Comprehensive guide for creating consistent, high-quality content across all post types. This combines voice characteristics, structural templates, and specific elements for each content category.
 
