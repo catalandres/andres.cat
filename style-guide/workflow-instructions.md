@@ -1,12 +1,12 @@
 # Workflow instructions
 
-## AUTOMATIC ACTIVATION
+## Automatic activation
 
-When the user mentions **"post"**, **"article"**, **"write"**, or **"content"** in relation to the blog, ACTIVATE this workflow automatically.
+When the user mentions **"post"**, **"article"**, **"write"**, or **"content"** in relation to the blog, activate this workflow automatically.
 
-## STANDARD PROCEDURE
+## Standard procedure
 
-### STEP 1: IDENTIFY TYPE AND CONTEXT
+### Step 1: Identify type and context
 
 Ask concisely:
 
@@ -22,53 +22,65 @@ And tell me:
 • Preferred language (EN/ES/CA)
 ```
 
-### STEP 2: APPLY CORRESPONDING TEMPLATE
+### Step 2: Apply corresponding resources
 
-According to identified type, use:
+According to identified type and language, consult:
 
 - `post-templates.md` for structure
 - `voice-and-tone.md` for style
 - `audience-context.md` for focus
-- **Editorial decisions by language**:
-  - English: `editorial-decisions.md`
-  - Spanish: `decisiones-editoriales-español.md`  
-  - Catalan: `decisions-editorials-català.md`
 
-### STEP 3: PROGRESSIVE DEVELOPMENT
+**Core style rules**:
+- `style.md` for formatting, punctuation, and cross-language rules
 
-#### SEED → SPROUT (Initial expansion)
+**Language-specific guidance**:
+- English: `lexicon-en.md`
+- Spanish: `lexicon-es.md`  
+- Catalan: `lexicon-ca.md`
+
+**Terminology consistency**:
+- `terminology-technical.md` for general tech terms
+- `terminology-salesforce.md` for platform-specific terms
+- `translation.md` for cross-language equivalencies
+
+**Multilingual considerations**:
+- `multilingual-guidelines.md` for translation strategy
+
+### Step 3: Progressive development
+
+#### Seed → sprout (Initial expansion)
 
 - Take the 1-line idea
 - Expand to 1-2 paragraphs
 - Identify 3 key points
 - Suggest basic structure
 
-#### SPROUT → DRAFT (Complete structure)
+#### Sprout → draft (Complete structure)
 
 - Create detailed outline with headings
 - Write complete introduction
 - Develop 1-2 main sections
 - Propose conceptual closing
 
-#### DRAFT → POLISHED (Refinement)
+#### Draft → polished (Refinement)
 
 - Complete missing sections
 - Refine transitions
 - Add characteristic examples/metaphors
 - Optimize for target audience
 
-### STEP 4: ITERATIVE DELIVERY
+### Step 4: Iterative delivery
 
-- **DO NOT** try to complete everything at once
+- **Do not** try to complete everything at once
 - Show progress clearly
 - Offer specific next steps
 - Maintain momentum without overwhelming
 
-## SPECIFIC RULES BY TYPE
+## Specific rules by type
 
 ### Technical posts
 
-- ALWAYS include problem context
+- Always include problem context
 - Use precise terminology + clear analogies
 - Add considerations/limitations
 - Close with roadmap/future evolution
@@ -87,30 +99,30 @@ According to identified type, use:
 - Experiment with languages
 - Prioritize rhythm and musicality
 
-## ALWAYS INCLUDE ELEMENTS
+## Always include elements
 
-### In Technical Posts
+### In technical posts
 
 - At least 1 memorable analogy
 - Bulleted list for features
 - Footnote with official reference
 - Rhetorical question for engagement
 
-### In Chronicles
+### In chronicles
 
 - Specific observation (not generic)
 - Descriptive heading (not "Observations")
 - Connection to broader implications
 - Cultural nod in closing
 
-### In All
+### In all
 
 - Clear transitions between sections
-- Appropriate length by type (see audience-context.md)
-- Consistent tone with voice-and-tone.md
+- Appropriate length by type (see `audience-context.md`)
+- Consistent tone with `voice-and-tone.md`
 - Specific call to action
 
-## CLARIFICATION QUESTIONS
+## Clarification questions
 
 ### If idea is vague
 
@@ -130,7 +142,7 @@ According to identified type, use:
 - "What technical level do you assume?"
 - "Is there specific context they need?"
 
-## MAINTAIN MOMENTUM
+## Maintain momentum
 
 ### After each delivery
 
@@ -147,7 +159,7 @@ According to identified type, use:
 - If asking for major changes → rethink type/approach
 - If goes quiet → offer specific micro-step
 
-## FINAL QUALITY
+## Final quality
 
 ### Before considering "finished"
 
