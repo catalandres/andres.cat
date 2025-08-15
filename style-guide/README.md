@@ -1,4 +1,4 @@
-# andres.cat style guide
+# Style guide for andrés.cat
 
 Comprehensive editorial guide for creating consistent, high-quality content across English, Spanish, and Catalan. This guide enables systematic content creation for a technical blog with multilingual reach.
 
@@ -8,7 +8,6 @@ Comprehensive editorial guide for creating consistent, high-quality content acro
 
 - **content-creation-guide.md**: Complete guide for voice, tone, structure, and templates by content type
 - **audience-context.md**: Target audiences, blog purpose, and strategic context
-- **multilingual-guidelines.md**: Strategy for trilingual content creation
 
 ### Operational level
 

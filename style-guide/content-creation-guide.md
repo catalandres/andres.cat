@@ -5,16 +5,19 @@ Comprehensive guide for creating consistent, high-quality content across all pos
 ## Content types overview
 
 ### Technical/Salesforce posts
+
 **Purpose**: Deep technical knowledge with accessible narratives and constructive critical analysis
 **Length**: 2,000-3,500 words
 **Audience**: Intermediate to advanced Salesforce professionals and technical audience
 
 ### Chronicle/opinion posts  
+
 **Purpose**: Observational, constructive criticism of events and trends
 **Length**: 800-1,500 words
 **Audience**: Professional community seeking perspective and analysis
 
 ### Creative/Quantum songbook
+
 **Purpose**: Intersection between technology and humanities through experimental content
 **Length**: Variable, typically <500 words
 **Audience**: Followers interested in unique cultural-technical perspectives
@@ -62,11 +65,13 @@ Comprehensive guide for creating consistent, high-quality content across all pos
 ### Characteristic patterns
 
 **General flow**:
+
 1. **General concept/definition**: Introduce the topic with a broad definition or context
 2. **Specific Salesforce context**: Narrow down to how it applies within the Salesforce ecosystem
 3. **Problem to solve**: Present the challenge or question that the post will address
 
 **Example flow**:
+
 ```
 "Feature fiction: [Concept]" →
 "As developers, we constantly encounter..." →
@@ -123,11 +128,13 @@ Comprehensive guide for creating consistent, high-quality content across all pos
 ### Characteristic patterns
 
 **General flow**:
+
 1. **Event or observation**: Start with a specific event or observation that sets the stage
 2. **Contextualize the issue**: Explain why this observation is relevant to the Salesforce ecosystem
 3. **Analysis**: Offer insights or critiques based on the observation and context
 
 **Example flow**:
+
 ```
 "At [event], something caught my attention..." →
 "To understand why this is significant..." →
@@ -160,6 +167,7 @@ Comprehensive guide for creating consistent, high-quality content across all pos
 3. **Resolution or echo of initial theme**
 
 **No fixed structure**, but common patterns:
+
 - Strong initial image
 - Development through metaphors
 - Closing that resonates with beginning
@@ -175,6 +183,7 @@ Comprehensive guide for creating consistent, high-quality content across all pos
 ### Characteristic patterns
 
 **General flow**:
+
 1. **Evocative image**: Start with a vivid image or metaphor that captures the essence of the topic
 2. **Free development**: Allow the narrative to flow freely, exploring the theme without rigid structure
 3. **Poetic resolution**: Conclude with a reflective or poetic statement that ties back to the initial image or theme
@@ -215,6 +224,15 @@ Comprehensive guide for creating consistent, high-quality content across all pos
 - Clarifications for specific audiences
 - Links to official documentation
 
+## Multilingual adaptation
+
+When creating content in multiple languages:
+
+- **Write naturally first**: Choose your most comfortable language for initial creation
+- **Adapt, don't translate**: Adjust cultural references and examples for each audience  
+- **Maintain voice consistency**: Same level of expertise and approachability across languages
+- **Consider audience value**: Only translate when it adds genuine value for that language community
+
 ## Elements to avoid
 
 - Excessive jargon without explanation
@@ -222,3 +240,4 @@ Comprehensive guide for creating consistent, high-quality content across all pos
 - Very local cultural references without context
 - Overly rigid structures in creative content
 - Literal translations between languages
+- Forcing content into languages where it doesn't add value

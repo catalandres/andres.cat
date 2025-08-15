@@ -45,10 +45,6 @@ According to identified type and language, consult:
 - `terminology-salesforce.md` for platform-specific terms
 - `translation.md` for cross-language equivalencies
 
-**Multilingual considerations**:
-
-- `multilingual-guidelines.md` for translation strategy
-
 ### Step 3: Progressive development
 
 #### Seed → sprout (Initial expansion)
