@@ -6,10 +6,9 @@ Comprehensive editorial guide for creating consistent, high-quality content acro
 
 ### Strategic level
 
-- **voice-and-tone.md**: Editorial voice characteristics and tone guidelines
+- **content-creation-guide.md**: Complete guide for voice, tone, structure, and templates by content type
 - **audience-context.md**: Target audiences, blog purpose, and strategic context
 - **multilingual-guidelines.md**: Strategy for trilingual content creation
-- **post-templates.md**: Structured templates by content type
 
 ### Operational level
 
@@ -18,7 +17,7 @@ Comprehensive editorial guide for creating consistent, high-quality content acro
 
 ### Tactical level (`/editorial-decisions/`)
 
-- **style-general.md**: Consolidated formatting and style rules for all languages
+- **style.md**: Consolidated formatting and style rules for all languages
 - **terminology-technical.md**: Cross-language technical terms (APIs, frameworks, etc.)
 - **terminology-salesforce.md**: Salesforce-specific terminology and conventions
 - **translation.md**: Preferred term equivalencies across English/Spanish/Catalan
